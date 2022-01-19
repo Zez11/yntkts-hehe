@@ -83,8 +83,8 @@ def tod():
 
 # LO KONTOL
 logo = ''' \033[0;96m 
- \033[0;96m |_  / _ \_  /    / |   ® \033[0m|| Created By YayanXD
- \033[0;96m  / /  __// /       | |   \033[0m|| Github.com/Yayan-XD
+ \033[0;96m |_  / _ \_  /   / |   ® \033[0m|| Created By YayanXD
+ \033[0;96m  / /  __// /    | |   \033[0m|| Github.com/Yayan-XD
  \033[0;96m /___\___/___|   |_|  \033[0;91mv2.0  \033[0m|| Facebook.com/KM39453'''
 
 lo_ngentod = '1714009362122228'
